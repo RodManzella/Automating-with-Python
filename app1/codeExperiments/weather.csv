@@ -1,0 +1,5 @@
+# A csv is basically a text file that is usually split into columns
+
+"Station", "Temperature"
+"Kuala Lumpur", "45"
+"New York","20"
