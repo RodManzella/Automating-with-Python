@@ -4,7 +4,7 @@ import json
 # data which are made of lists and dictionaries, and they are put in these .json files
 # these data can be interpreted by Python using json module
 
-with open("questions.json", 'r') as file:
+with open("C:/Learning/Python20AppsCourse/app1/bonus/questions.json", 'r') as file:
       content = file.read()
 
 data = json.loads(content)  # converts content string to list
