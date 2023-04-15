@@ -22,7 +22,7 @@ while True:
         case "Add":
             todos = functions.get_todos()
             new_todo = values['todo'] + "\n"
-            todos.append(new_todo)
+            todos.append(new_todo + "\n")
             functions.write_todos(todos)
         case sg.WIN_CLOSED:
             break
