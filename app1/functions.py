@@ -1,4 +1,4 @@
-FILEPATH = "C:/Learning/Python20AppsCourse/app1/files/subfiles/todos.txt"
+FILEPATH = "C:/Learning/Python20AppsCourse/todos.txt"
 
 # constant variables
 
